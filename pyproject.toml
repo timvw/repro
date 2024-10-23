@@ -3,7 +3,7 @@ name = "repro"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Tim Van Wassenhove", email = "tim.van.wassenhove@telenetgroup.be" }
+    { name = "Tim Van Wassenhove", email = "github@timvw.be" }
 ]
 dependencies = [
     "lancedb>=0.14.0",
